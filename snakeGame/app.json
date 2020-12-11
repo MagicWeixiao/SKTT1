@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/snake/snake",
+    "pages/index/index",
+    "pages/password/password",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "智能门锁",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
